@@ -1,0 +1,27 @@
+{
+  "name": "learn-bcrypt",
+  "version": "1.0.0",
+  "description": "An express app that shows how to use bcrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shittu1/learn-bcrypt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shittu1/learn-bcrypt/issues"
+  },
+  "homepage": "https://github.com/Shittu1/learn-bcrypt#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "morgan": "^1.9.1",
+    "pg": "^7.7.1"
+  }
+}
